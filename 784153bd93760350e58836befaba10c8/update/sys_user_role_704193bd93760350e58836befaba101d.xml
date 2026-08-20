@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>K0ADcoKmiDNvDE7dlh0g6tXpxLvisLBVbPXpt8B8q0s=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2202555_employ_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 07:48:37</sys_created_on>
+        <sys_id>704193bd93760350e58836befaba101d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2202555_employ_0.user</sys_name>
+        <sys_package display_value="Employee Request Management" source="x_2202555_employ_0">784153bd93760350e58836befaba10c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Request Management">784153bd93760350e58836befaba10c8</sys_scope>
+        <sys_update_name>sys_user_role_704193bd93760350e58836befaba101d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 07:48:37</sys_updated_on>
+    </sys_user_role>
+</record_update>
