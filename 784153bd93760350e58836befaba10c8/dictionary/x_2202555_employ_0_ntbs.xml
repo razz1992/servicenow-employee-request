@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d900737d937a0350e58836befaba10cf" label="NTBS" max_length="40" name="x_2202555_employ_0_ntbs" type="collection">
+        <element label="MSISDN" max_length="40" name="msisdn" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="NETCRACKER" max_length="40" name="netcracker" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="INSERTDATETIME" max_length="40" name="insertdatetime" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="YAQOOT" max_length="40" name="yaqoot" type="string"/>
+        <element label="PERSONID" max_length="40" name="personid" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="NOTIFICATIONCODE" max_length="40" name="notificationcode" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

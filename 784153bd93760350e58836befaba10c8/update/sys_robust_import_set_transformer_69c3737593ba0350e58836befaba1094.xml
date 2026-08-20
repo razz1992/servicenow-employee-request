@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Employee Request Data Mapping</description>
+        <name>Employee Request Data Mapping_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="Employee Request Data Mapping_etl_ihub">65c3737593ba0350e58836befaba1050</robust_transform_engine>
+        <source_table>x_2202555_employ_0_ihub_import_41c3337593ba0350e58836befaba1048</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 10:19:24</sys_created_on>
+        <sys_id>69c3737593ba0350e58836befaba1094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Request Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="Employee Request Management" source="x_2202555_employ_0">784153bd93760350e58836befaba10c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Request Management">784153bd93760350e58836befaba10c8</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_69c3737593ba0350e58836befaba1094</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 10:19:24</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

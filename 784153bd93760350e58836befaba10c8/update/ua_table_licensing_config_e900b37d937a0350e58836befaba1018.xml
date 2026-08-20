@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_2202555_employ_0_ntbs</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 10:03:00</sys_created_on>
+        <sys_id>e900b37d937a0350e58836befaba1018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2202555_employ_0_ntbs</sys_name>
+        <sys_package display_value="Employee Request Management" source="x_2202555_employ_0">784153bd93760350e58836befaba10c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Request Management">784153bd93760350e58836befaba10c8</sys_scope>
+        <sys_update_name>ua_table_licensing_config_e900b37d937a0350e58836befaba1018</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 10:03:00</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

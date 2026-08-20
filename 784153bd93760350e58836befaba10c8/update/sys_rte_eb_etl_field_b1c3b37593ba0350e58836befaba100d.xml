@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>comments_and_work_notes</field>
+        <name>Comments and Work notes</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 10:19:25</sys_created_on>
+        <sys_id>b1c3b37593ba0350e58836befaba100d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comments and Work notes</sys_name>
+        <sys_package display_value="Employee Request Management" source="x_2202555_employ_0">784153bd93760350e58836befaba10c8</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Employee Request Data Mapping_etl_ihub">65c3737593ba0350e58836befaba1050</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_x_2202555_employ_0_employee_request">fdc3737593ba0350e58836befaba10c6</sys_rte_eb_entity>
+        <sys_scope display_value="Employee Request Management">784153bd93760350e58836befaba10c8</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_b1c3b37593ba0350e58836befaba100d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 10:19:25</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>
