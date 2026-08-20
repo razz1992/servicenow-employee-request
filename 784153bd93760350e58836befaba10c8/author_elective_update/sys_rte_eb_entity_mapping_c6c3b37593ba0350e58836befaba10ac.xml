@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="DELETE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_SOURCE_TEMP_MAPPING</name>
+        <order>50</order>
+        <source_sys_rte_eb_entity display_value="Source_x_2202555_employ_0_ihub_import_41c3337593ba0350e58836befaba1048">69c3737593ba0350e58836befaba10b2</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 10:19:26</sys_created_on>
+        <sys_id>c6c3b37593ba0350e58836befaba10ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Employee Request Management" source="x_2202555_employ_0">784153bd93760350e58836befaba10c8</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Employee Request Data Mapping_etl_ihub">65c3737593ba0350e58836befaba1050</sys_rte_eb_definition>
+        <sys_scope display_value="Employee Request Management">784153bd93760350e58836befaba10c8</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_c6c3b37593ba0350e58836befaba10ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 10:19:26</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_2202555_employ_0_employee_request">4ac3b37593ba0350e58836befaba10a8</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Request Management">784153bd93760350e58836befaba10c8</application>
+        <file_path/>
+        <instance_id>9c07c73b2b6e0f90323ef9f66e91bff2</instance_id>
+        <instance_name>dev444896</instance_name>
+        <name>sys_rte_eb_entity_mapping_c6c3b37593ba0350e58836befaba10ac</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_entity_mapping"&gt;&lt;sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE"&gt;&lt;condition_script&gt;&lt;![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input &amp;&amp; input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]&gt;&lt;/condition_script&gt;&lt;encoded_query/&gt;&lt;entity_mapping_group/&gt;&lt;ignore&gt;false&lt;/ignore&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;name&gt;IHUB_SOURCE_TEMP_MAPPING&lt;/name&gt;&lt;order&gt;50&lt;/order&gt;&lt;source_sys_rte_eb_entity display_value="Source_x_2202555_employ_0_ihub_import_41c3337593ba0350e58836befaba1048"&gt;69c3737593ba0350e58836befaba10b2&lt;/source_sys_rte_eb_entity&gt;&lt;sys_class_name&gt;sys_rte_eb_entity_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-08-20 10:19:26&lt;/sys_created_on&gt;&lt;sys_id&gt;c6c3b37593ba0350e58836befaba10ac&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;IHUB_SOURCE_TEMP_MAPPING&lt;/sys_name&gt;&lt;sys_package display_value="Employee Request Management" source="x_2202555_employ_0"&gt;784153bd93760350e58836befaba10c8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="Employee Request Data Mapping_etl_ihub"&gt;65c3737593ba0350e58836befaba1050&lt;/sys_rte_eb_definition&gt;&lt;sys_scope display_value="Employee Request Management"&gt;784153bd93760350e58836befaba10c8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_entity_mapping_c6c3b37593ba0350e58836befaba10ac&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-08-20 10:19:26&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_2202555_employ_0_employee_request"&gt;4ac3b37593ba0350e58836befaba10a8&lt;/target_sys_rte_eb_entity&gt;&lt;/sys_rte_eb_entity_mapping&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1058907026</payload_hash>
+        <record_name>IHUB_SOURCE_TEMP_MAPPING</record_name>
+        <reverted_from/>
+        <source>d2786b7d933a0350e58836befaba1029</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 10:19:26</sys_created_on>
+        <sys_id>0ac3b37593ba0350e58836befaba10b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a01eaeca170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 10:19:26</sys_updated_on>
+        <type>RTE Entity Mapping</type>
+        <update_guid>c6c3b37547ba0350eaca5ba8a0b0a7b0</update_guid>
+        <update_guid_history>c6c3b37547ba0350eaca5ba8a0b0a7b0:1058907026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-20 10:24:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_entity_mapping">sys_rte_eb_entity_mapping</sys_db_object>
+        <sys_id>0622792f10b14880805757996b100100</sys_id>
+        <sys_metadata>c6c3b37593ba0350e58836befaba10ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Employee Request Management" source="x_2202555_employ_0">784153bd93760350e58836befaba10c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Request Management">784153bd93760350e58836befaba10c8</sys_scope>
+        <sys_scope_delete display_value="">1c13e26def544d5c97cc3b41480ccb10</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_entity_mapping_c6c3b37593ba0350e58836befaba10ac</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_entity_mapping_c6c3b37593ba0350e58836befaba10ac">0ac3b37593ba0350e58836befaba10b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-20 10:24:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
